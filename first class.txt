@@ -1,0 +1,19 @@
+Git, tsf
+Application types
+function Name
+Add
+Return type
+int,add, 
+private int Add (int a int b)
+{
+return a+b;
+}
+Git up create Account
+function declaration use var
+Name space bundle of class
+class myclass
+use  inside myclass other class
+classliabrarytest.myclass
+http://github.com/speedchandu/ConsoleFor9Am
+
+ 

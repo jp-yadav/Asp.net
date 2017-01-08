@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Consoleapp
+public class Dog
 {
-    class Program
+    public class Dog()
     {
-        static void Main(string[] args)
-        {
-           cl
-        }
-    }
+
 }
+    public Dog( int a)
+    {
+            
+    }
+    }
+
